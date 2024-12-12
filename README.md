@@ -1,6 +1,6 @@
-# Home Dashboard App
+# StarLiar App
 
-This is a mobile app built with Flutter, designed to display a dynamic dashboard for multiple data sources. It integrates with Firebase to fetch user data and presents key statistics like chess and LeetCode performance, along with a leaderboard that ranks users based on their latest chess scores. The app is fully scrollable and responsive, offering a clean and modern interface with a GridView for statistics and a leaderboard section below it.
+This is a mobile app built with Flutter, designed to display a dynamic dashboard for multiple data sources. It integrates with Firebase to fetch user data and presents key statistics like chess and LeetCode performance and talk with your chesscom and leetcode friends, along with a leaderboard that ranks users based on their latest chess scores. The app is fully scrollable and responsive, offering a clean and modern interface with a GridView for statistics and a leaderboard section below it.
 
 ## Features:
 - **Home Overview**: Displays a set of statistics in a grid layout (e.g., chess stats, LeetCode stats).
