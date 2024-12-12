@@ -17,6 +17,7 @@ This is a mobile app built with Flutter, designed to display a dynamic dashboard
 
 ## Screenshots:
 Include screenshots of your app's UI (e.g., dashboard, leaderboard).
+![WhatsApp Image 2024-12-12 at 21 28 55_99a7392c](https://github.com/user-attachments/assets/eafc9397-7bc4-44b2-99b3-24843dcaf1e6)
 
 ## Setup:
 
