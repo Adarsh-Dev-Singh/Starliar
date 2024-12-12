@@ -22,4 +22,4 @@ Include screenshots of your app's UI (e.g., dashboard, leaderboard).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/home-dashboard-app.git
+   git clone https://github.com/Adarsh-Dev-Singh/Starliar.git
